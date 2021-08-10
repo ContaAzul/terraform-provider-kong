@@ -1,5 +1,4 @@
 
-
 Terraform Provider Kong
 =======================
 The Kong Terraform Provider tested against real Kong!
